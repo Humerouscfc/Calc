@@ -1,0 +1,13 @@
+{
+  "name": "ai-calculator",
+  "version": "1.0.0",
+  "description": "An AI-based Calculator app that interprets natural language queries for arithmetic expressions.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mathjs": "^11.7.0"
+  }
+}
